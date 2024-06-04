@@ -19,6 +19,7 @@
  * A build error on this line means your board is unsupported.
  * See the sample documentation for information on how to fix this.
  */
+
 static const struct gpio_dt_spec led = GPIO_DT_SPEC_GET(LED0_NODE, gpios);
 bool flagger=0;
 static int cmd_blink_off(const struct shell *shell, size_t argc, char **argv)
