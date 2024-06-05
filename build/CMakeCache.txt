@@ -325,7 +325,7 @@ DTC:FILEPATH=/home/rjhkquantum88/zephyr-sdk-0.16.5-1/sysroots/x86_64-pokysdk-lin
 // parameter. These settings will override the settings in the
 // board's .dts file. Multiple files may be listed, e.g. DTC_OVERLAY_FILE="dts1.overlay
 // dts2.overlay"
-DTC_OVERLAY_FILE:STRING=/home/rjhkquantum88/zephyr_workspace/rjhk_blinky_w_uart/nucleo_g474re.overlay
+DTC_OVERLAY_FILE:STRING=
 
 //Linker BFD compatibility (compiler reported)
 GNULD_LINKER_IS_BFD:BOOL=ON

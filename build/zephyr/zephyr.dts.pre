@@ -3082,10 +3082,4 @@ stm32_lp_tick_source: &lptim1 {
  status = "okay";
 };
 # 0 "<command-line>" 2
-# 1 "/home/rjhkquantum88/zephyr_workspace/rjhk_blinky_w_uart/nucleo_g474re.overlay" 1
-&lpuart1 {
-current-speed = <115200>;
- status = "okay";
-};
-# 0 "<command-line>" 2
 # 1 "/home/rjhkquantum88/zephyr_workspace/zephyr/misc/empty_file.c"

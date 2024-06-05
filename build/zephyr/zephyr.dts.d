@@ -35,5 +35,4 @@ empty_file.o: \
  /home/rjhkquantum88/zephyr_workspace/zephyr/include/zephyr/dt-bindings/pinctrl/stm32-pinctrl.h \
  /home/rjhkquantum88/zephyr_workspace/zephyr/include/zephyr/dt-bindings/pinctrl/stm32-pinctrl-common.h \
  /home/rjhkquantum88/zephyr_workspace/zephyr/boards/st/nucleo_g474re/arduino_r3_connector.dtsi \
- /home/rjhkquantum88/zephyr_workspace/zephyr/include/zephyr/dt-bindings/input/input-event-codes.h \
- /home/rjhkquantum88/zephyr_workspace/rjhk_blinky_w_uart/nucleo_g474re.overlay
+ /home/rjhkquantum88/zephyr_workspace/zephyr/include/zephyr/dt-bindings/input/input-event-codes.h

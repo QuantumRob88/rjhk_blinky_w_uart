@@ -1,4 +1,0 @@
-&lpuart1 {  /* assuming 'usart2' here, you need to replace it with UART dev used in your board */
-current-speed = <115200>;
-	status = "okay";
-};
